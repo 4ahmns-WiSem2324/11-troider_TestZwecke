@@ -6,4 +6,10 @@ public class TestScript : MonoBehaviour
     {
         Debug.Log("hello world");
     }
+
+    void Update()
+    {
+        Debug.Log("hello World");
+        Debug.Log("HI Theo");
+    }
 }
